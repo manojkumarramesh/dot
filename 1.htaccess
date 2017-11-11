@@ -1,0 +1,34 @@
+php_flag display_startup_errors off
+php_flag display_errors off
+php_value  error_reporting 2039
+php_flag html_errors off
+php_flag log_errors off
+php_value error_log /var/www/Team/PaymentOne/data/logfiles/php_error.log
+php_flag session.bug_compat_warn off
+php_flag register_globals off
+php_flag magic_quotes_gpc Off
+php_value date.timezone "America/Los_Angeles"
+
+AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/x-javascript
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch ^Mozilla/4\.[0678] no-gzip
+BrowserMatch \bMSIE\s7 !no-gzip !gzip-only-text/html
+BrowserMatch \bOpera !no-gzip
+Header append Vary User-Agent
+
+<IfModule mod_expires.c>
+        <FilesMatch "\.(jpe?g|png|gif|js|css)$">
+                        ExpiresActive On
+                        ExpiresDefault "access plus 1 month"
+        </FilesMatch>
+</IfModule>
+
+<FilesMatch "\.(html|htm|php)$">
+FileETag None
+<IfModule mod_headers.c>
+Header unset ETag
+Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+Header set Pragma "no-cache"
+Header set Expires "Wed, 11 Jan 1984 05:00:00 GMT"
+</IfModule>
+</FilesMatch>

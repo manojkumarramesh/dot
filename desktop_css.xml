@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<desktop>
+    <name title="Body" value="4"></name>
+    <name title="Links" value="1"></name>
+    <name title="Page Title" value="1"></name>
+    <name title="Phone Number" value="2"></name>
+    <name title="Item Details" value="1"></name>
+    <name title="Item List" value="1"></name>
+    <name title="Form Title" value="1"></name>
+    <name title="Form Labels" value="1"></name>
+    <name title="Form Textbox" value="1"></name>
+    <name title="Form Textbox(focus)" value="1"></name>
+    <name title="Inactive Button" value="2"></name>
+    <name title="Active Button" value="1"></name>
+    <name title="IVR Timer Box" value="3"></name>
+    <name title="TOS Title" value="2"></name>
+    <name title="Terms &amp; Conditions" value="2"></name>
+    <name title="Footer" value="1"></name>
+    <name title="Success Message" value="4"></name>
+    <name title="Notice Message" value="3"></name>
+    <name title="Error Message" value="5"></name>
+    <name title="IVR Calling Instruction" value="3"></name>
+</desktop>

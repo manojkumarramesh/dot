@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<desktop>
+    <home>
+        <name title="How it Works?" value="1"></name>
+        <name title="Select an item:" value="1"></name>
+        <name title="Please enter your home phone number" value="1"></name>
+        <name title="Continue" value="1"></name>
+        <name title="Remember My Number" value="1"></name>
+        <name title="Verifying phone number." value="1"></name>
+        <name title="Sorry, we can not bill the home phone number [phonenumber] you provided. Please try again." value="1"></name>
+        <name title="Sorry, we are unable to verify the information you provided. Please try our mobile phone number option." value="1"></name>
+        <name title="To complete your transaction, please provide the following details." value="2"></name>
+        <name title="First Name" value="2"></name>
+        <name title="Last Name" value="2"></name>
+        <name title="Address" value="2"></name>
+        <name title="Zip Code" value="2"></name>
+        <name title="Month/Year of Birth" value="2"></name>
+        <name title="Terms of Service" value="2"></name>
+        <name title="Terms Content (QWEST)" value="2"></name>
+        <name title="Terms Content (NON QWEST)" value="11"></name>
+        <name title="I Agree to Terms of Service" value="11"></name>
+        <name title="Authorization." value="2"></name>
+        <name title="Processing order." value="2"></name>
+        <name title="Time remaining to call" value="3"></name>
+        <name title="Purchase Confirmed" value="8"></name>
+        <name title="Your purchase was successfully completed." value="8"></name>
+        <name title="Transaction Cancelled." value="6"></name>
+        <name title="Sorry, this transaction has been cancelled as you have not completed the transaction within the 10 minute time window." value="6"></name>
+        <name title="Post Sale Disclosure Notice" value="8"></name>
+        <name title="Home Phone Number" value="1"></name>
+        <name title="Post Sale Disclosure Notice for AT&amp;T Customers" value="8"></name>
+        <name title="Post Sale Disclosure Notice for Qwest Customers" value="8"></name>
+        <name title="Post Sale Disclosure Notice for state of Minnesota only" value="8"></name>
+        <name title="I am confirming the following purchase:" value="5"></name>
+        <name title="Item:" value="5"></name>
+        <name title="Price:" value="5"></name>
+        <name title="Billing:" value="5"></name>
+        <name title="Done" value="8"></name>
+        <name title="Pay with your Home Phone" value="1"></name>
+        <name title="Display Home Number" value="5"></name>
+        <name title="Confirm" value="5"></name>
+        <name title="City" value="2"></name>
+        <name title="State" value="2"></name>
+        <name title="Legal Disclaimer" value=""></name>
+        <name title="IVR Per Call (Please Call)" value="4"></name>
+        <name title="IVR Per Call (Time remaining to call)" value="4"></name>
+        <name title="IVR Per Call (Follow Instructions)" value="4"></name>
+        <name title="IVR Per Minute (Please Call)" value="4"></name>
+        <name title="IVR Per Minute (Follow Instructions)" value="4"></name>
+        <name title="IVR Per Minute (Confirmation message)" value="8"></name>
+        <name title="IVR (Please Call)" value="3"></name>
+        <name title="IVR (Follow Instructions)" value="3"></name>
+        <name title="Private and secure payment" value="1"></name>
+        <name title="Invalid Zip Code" value="2"></name>
+        <name title="Product Not Supported" value="1"></name>
+        <name title="Products not available." value="6"></name>
+    </home>
+    <mobile>
+        <name title="How it Works?" value="1"></name>
+        <name title="Select an item:" value="1"></name>
+        <name title="Please enter your mobile number" value="1"></name>
+        <name title="Sending PIN Code to your phone" value="1"></name>
+        <name title="Verifying phone number." value="1"></name>
+        <name title="Pay with your Mobile Phone" value="1"></name>
+        <name title="Continue" value="1"></name>
+        <name title="Remember My Number" value="1"></name>
+        <name title="Mobile Number" value="1"></name>
+        <name title="Legal Disclaimer" value="1"></name>
+        <name title="Private and secure payment" value="1"></name>
+        <name title="Completing Transaction" value="2"></name>
+        <name title="Processing Order" value="2"></name>
+        <name title="Display Mobile Number" value="2"></name>
+        <name title="A text message containing a PIN code was sent to your phone." value="2"></name>
+        <name title="Please Enter PIN Code" value="2"></name>
+        <name title="Resend PIN to Mobile Phone" value="2"></name>
+        <name title="Transaction Cancelled." value="3"></name>
+        <name title="Sorry, there was a problem with your purchase." value="3"></name>
+        <name title="Purchase Confirmed" value="3"></name>
+        <name title="Your purchase was successfully completed." value="3"></name>
+        <name title="Done" value="3"></name>
+        <name title="Success, Please check your merchant website within 24 hours." value="3"></name>
+        <name title="Exceeded PIN number entry attempts" value="3"></name>
+        <name title="MO Method" value="7"></name>
+        <name title="MT Method" value="7"></name>
+        <name title="MO/MT failure to iLEC" value="7"></name>
+        <name title="Try Web Billing" value="7"></name>
+        <name title="Time remaining to send SMS" value="7"></name>
+        <name title="Try again" value="7"></name>
+        <name title="Carrier Not Supported" value="1"></name>
+        <name title="Product Not Supported" value="1"></name>
+        <name title="Operator ID Mismatch" value="1"></name>
+        <name title="Products not available." value="3"></name>
+    </mobile>
+    <anyphone>
+        <name title="Select a Method to Pay" value="9"></name>
+        <name title="Pay With Your Home Phone" value="9"></name>
+        <name title="Pay With Your Mobile Phone" value="9"></name>
+        <name title="Error transaction could not be processed" value="9"></name>
+        <name title="Pay with any phone" value="10"></name>
+        <name title="Please enter your mobile or home number" value="10"></name>
+        <name title="Phone number" value="10"></name>
+        <name title="Error number not recognized" value="10"></name>
+        <name title="How it Works?" value="10"></name>
+        <name title="Remember My Number" value="10"></name>
+        <name title="Continue" value="10"></name>
+        <name title="Phone number verification" value="10"></name>
+        <name title="Private and secure payment" value="10"></name>
+        <name title="Legal Disclaimer" value="10"></name>
+        <name title="Select an item:" value="10"></name>
+        <name title="Processing Order" value="10"></name>
+        <name title="Product Not Supported" value="10"></name>
+        <name title="Products not available." value="10"></name>
+    </anyphone>
+</desktop>
